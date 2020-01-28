@@ -12,6 +12,6 @@ describe "say_hello" do
     say_hello()
   end
 end
-def greeting(name)
+def say_hello(name)
   puts "Hello, #{name}!"
 end
